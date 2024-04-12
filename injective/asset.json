@@ -5924,6 +5924,13 @@
     "icon": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg"
   },
   {
+    "id": "ibc/063F4461F7317CFF10F50AB044E44932D22AAD84FA7107082744946E6DB7B7A8",
+    "name": "ibc/063F4461F7317CFF10F50AB044E44932D22AAD84FA7107082744946E6DB7B7A8",
+    "symbol": "ibc/063F4461F7317CFF10F50AB044E44932D22AAD84FA7107082744946E6DB7B7A8",
+    "decimals": "6",
+    "type": "ibc"
+  },
+  {
     "id": "ibc/16618B7F7AC551F48C057A13F4CA5503693FBFF507719A85BC6876B8BD75F821",
     "name": "EVMOS",
     "symbol": "EVMOS",
